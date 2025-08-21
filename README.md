@@ -97,7 +97,7 @@ The app uses GetX for navigation, with defined routes in `app_routes.dart` and p
 ## Dependencies
 
 - **get**: ^4.6.5 - For state management, dependency injection, and navigation
-- **permission_handler**: ^10.2.0 - For handling device permissions
+- **permission_handler**: ^12.0.1 - For handling device permissions
 - **shared_preferences**: ^2.1.0 - For local storage
 - **flutter_svg**: ^2.0.5 - For SVG support
 - **cached_network_image**: ^3.2.3 - For image caching

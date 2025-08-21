@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.5
   get: ^4.6.5  # GetX for state management
-  permission_handler: ^10.2.0  # For handling permissions
+  permission_handler: ^12.0.1  # For handling permissions
   shared_preferences: ^2.1.0  # For local storage
   flutter_svg: ^2.0.5  # For SVG support
   cached_network_image: ^3.2.3  # For image caching
